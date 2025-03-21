@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋. I'm Raf!
+
+Object-Oriented Projects:
+
+[BlackJack game](https://github.com/Rafaelrfg1/CS145MyBlackJack) 
+
+[Sorting Algorithm](https://github.com/Rafaelrfg1/CS145Sorting) 
 
 <!--
 **Rafaelrfg1/Rafaelrfg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

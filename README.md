@@ -25,4 +25,4 @@ Object-Oriented Projects:
 [Binary Search Tree](https://github.com/Rafaelrfg1/CS145BinarySearchTree)
 
 ## Resume:
-[Resume](https://github.com/Rafaelrfg1/Resume/blob/main/Resume_pro_7_29_2026.pdf))
+[Resume](https://github.com/Rafaelrfg1/Resume/blob/main/Resume_pro_7_29_2026.pdf)

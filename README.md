@@ -18,6 +18,8 @@ I work primarily in C/C++ and Python, with hands-on experience in circuit design
 
 Object-Oriented Projects:
 
+[Flappy Bird Game](https://github.com/Rafaelrfg1/Flappy_bird)
+
 [BlackJack game](https://github.com/Rafaelrfg1/CS145MyBlackJack) 
 
 [Sorting Algorithm](https://github.com/Rafaelrfg1/CS145Sorting) 
